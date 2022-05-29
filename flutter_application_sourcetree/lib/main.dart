@@ -63,6 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
+    //setState时 自动重新build
     // This method is rerun every time setState is called, for instance as done
     // by the _incrementCounter method above.
     //
